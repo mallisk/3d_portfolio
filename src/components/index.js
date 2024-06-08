@@ -7,7 +7,7 @@ import Experience from "./Experience";
 import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
-import CanvasLoader from "./Loader";
+import Loader from "./Loader";
 
 
 export {
@@ -19,7 +19,7 @@ export {
   Works,
   Feedbacks,
   Contact,
-  CanvasLoader,
+  Loader,
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
